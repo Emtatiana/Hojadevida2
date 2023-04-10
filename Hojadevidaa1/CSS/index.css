@@ -1,0 +1,65 @@
+body {
+    margin:0;
+    padding:0;
+    background: aliceblue;
+}
+
+.name {
+    width: 100%;
+    height: 300px;
+    background: #32841A;
+
+}
+
+.name .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left:25%;
+}
+
+.name .content .a-1 {
+    color: black;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-weight: bolder;
+    font-size:  45px;
+}
+
+.name .content .a-2 {
+    color: black;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size:  25px;
+}
+
+.info {
+    width: 90%;
+    height: auto;
+    background: #BEDCFE;
+    margin: 5% auto;
+    padding: 20px;
+}
+
+.info .tituloSeccion {
+    color: black;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px green solid;
+}
+
+.info .tituloinfo {
+    color: black;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .infoinfo {
+    color: rgb(19, 19, 129);
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: large;
+    display: inline;
+}
